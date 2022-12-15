@@ -7,6 +7,8 @@ This basic version I'm super lazy to add CSS
 
 [![Run on Repl.it](https://replit.com/badge/github/@Naiml007/New-node-express)](https://replit.com/github/@Naiml007/New-node-express)
 
+**I prefer clone this git manual this button buggy**
+```
 https://github.com/Naiml007/New-node-express-show-user-IP-
-
+```
 ###### And this is **node.js** project 
